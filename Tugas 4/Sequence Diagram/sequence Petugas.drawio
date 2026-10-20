@@ -1,0 +1,529 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Halaman-1" id="z804icFrx1NTeTIWBncq">
+    <mxGraphModel dx="1776" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="1629" width="20" x="230" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" value="" vertex="1">
+          <mxGeometry height="1629" width="50" x="420" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-3" parent="AmkFmMD-4WnfsllKaD7_-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80.5" width="10" x="20" y="69" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-4" parent="AmkFmMD-4WnfsllKaD7_-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="56" width="10" x="20" y="479" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-5" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;1. bukaHalamanLogin()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="-0.0025" as="geometry">
+            <mxPoint x="-1" as="offset" />
+            <Array as="points">
+              <mxPoint x="342.0000000000001" y="350" />
+            </Array>
+            <mxPoint x="250" y="350" as="sourcePoint" />
+            <mxPoint x="330" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-6" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Petugas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-7" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-3" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;2. inputUsernamePassword()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0274" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="342.0000000000001" y="380" />
+            </Array>
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="390" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-8" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" value="" vertex="1">
+          <mxGeometry height="1629" width="50" x="580" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-9" parent="AmkFmMD-4WnfsllKaD7_-8" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="56" width="10" x="20" y="359" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-10" parent="AmkFmMD-4WnfsllKaD7_-8" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="141" width="10" x="20" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-11" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-3" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;3. validasiLogin()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.3538" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="525" y="410" />
+            </Array>
+            <mxPoint x="490" y="410" as="sourcePoint" />
+            <mxPoint x="570" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-12" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" value="" vertex="1">
+          <mxGeometry height="1629" width="40" x="760" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-13" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80.5" width="10" x="15" y="129" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-14" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="40" width="10" x="15" y="259" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-15" edge="1" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;align=left;spacingLeft=2;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;6. validasiDataLogin()&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="239" />
+              <mxPoint x="50" y="269" />
+            </Array>
+            <mxPoint x="20" y="239" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-16" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="141" width="10" x="15" y="359" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-17" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="161" width="10" x="15" y="679" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-18" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="101" width="10" x="15" y="919" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-19" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="101" width="10" x="15" y="1099" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-20" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="101" width="10" x="15" y="1269" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-21" parent="AmkFmMD-4WnfsllKaD7_-12" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="91" width="10" x="15" y="1459" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-22" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="" vertex="1">
+          <mxGeometry height="1629" width="40" x="980" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-23" parent="AmkFmMD-4WnfsllKaD7_-22" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50.5" width="10" x="15" y="149.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-24" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="" vertex="1">
+          <mxGeometry height="1629" width="40" x="1140" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-25" parent="AmkFmMD-4WnfsllKaD7_-24" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="56" width="10" x="15" y="689" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-26" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="" vertex="1">
+          <mxGeometry height="1629" width="40" x="1290" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-27" parent="AmkFmMD-4WnfsllKaD7_-26" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50.5" width="10" x="15" y="759" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-28" parent="AmkFmMD-4WnfsllKaD7_-26" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="71" width="10" x="15" y="939" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-29" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="" vertex="1">
+          <mxGeometry height="1629" width="40" x="1440" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-30" parent="AmkFmMD-4WnfsllKaD7_-29" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="71" width="10" x="15" y="1129" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-31" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;" value="" vertex="1">
+          <mxGeometry height="1629" width="40" x="1600" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-32" parent="AmkFmMD-4WnfsllKaD7_-31" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="71" width="10" x="15" y="1289" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-33" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Halaman Login&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="405" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-34" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Dashboard Petugas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="565" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-35" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Controler Petugas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="740" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-36" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Pengguna&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="960" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-37" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Pengepul&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="1420" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-38" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Nasabah&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="1120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-39" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Sampah&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="1270" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-40" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Transaksi&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="80" x="1580" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-41" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-23" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-13" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;3&quot;&gt;5. dataPengguna&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="960" y="505.4999999999998" />
+            </Array>
+            <mxPoint x="925" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-42" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-13" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;4. getPengguna()&lt;/font&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="960" y="435.0000000000002" />
+            </Array>
+            <mxPoint x="925" y="435" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-43" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-16" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;7. loginBerhasil()&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.0909" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="689.75" y="640" />
+            </Array>
+            <mxPoint x="775" y="640" as="sourcePoint" />
+            <mxPoint x="695" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-44" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-9" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;8. tampilkanDashboardAdmin&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.1678" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="422.0000000000001" y="670" />
+            </Array>
+            <mxPoint x="580" y="670" as="sourcePoint" />
+            <mxPoint x="410" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-45" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-4" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;9. loginGagal()&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.4154" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="609.75" y="760" />
+            </Array>
+            <mxPoint x="775" y="760" as="sourcePoint" />
+            <mxPoint x="610" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-46" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;10. tampilkanPesanKesalahan&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.0274" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="342.2500000000001" y="790" />
+            </Array>
+            <mxPoint x="445" y="790" as="sourcePoint" />
+            <mxPoint x="280" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-47" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;11. pilihMenu()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.2372" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="422" y="870" />
+            </Array>
+            <mxPoint x="245.5" y="870" as="sourcePoint" />
+            <mxPoint x="570.5" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-48" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=10;height=15;" value="" vertex="1">
+          <mxGeometry height="220" width="610" x="200" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-49" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-48" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0;exitY=0.475;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" target="AmkFmMD-4WnfsllKaD7_-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="750" as="sourcePoint" />
+            <mxPoint x="570" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Data Valid]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="240" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Data Tidak Valid]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-52" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-10" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;12. getFormSetoran()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.103" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="680" y="960" />
+            </Array>
+            <mxPoint x="620" y="945" as="sourcePoint" />
+            <mxPoint x="750" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-53" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;17. dataFormSetoran&lt;/span&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="692.5" y="1100" />
+            </Array>
+            <mxPoint x="775" y="1100" as="sourcePoint" />
+            <mxPoint x="610" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-54" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;18. tampilkanFormSetoran&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.3205" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="422.25" y="1120.0000000000002" />
+            </Array>
+            <mxPoint x="600" y="1120" as="sourcePoint" />
+            <mxPoint x="240" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-55" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-17" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;13. getDataNasabah()&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.0541" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="969.9999999999998" y="970" />
+            </Array>
+            <mxPoint x="810" y="966" as="sourcePoint" />
+            <mxPoint x="1130" y="966" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-56" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-25" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;14. dataNasabah&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="0.2105" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="970" y="1000" />
+            </Array>
+            <mxPoint x="1130" y="1020" as="sourcePoint" />
+            <mxPoint x="795" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Setoran Sampah]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="920.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-58" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-17" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-27" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;15. getJenisSampah()&lt;/font&gt;">
+          <mxGeometry relative="1" x="0.1346" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1057.4999999999998" y="1035" />
+            </Array>
+            <mxPoint x="810" y="1050" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-59" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-27" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;16. dataJenisSampah&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.1346" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1042.2499999999998" y="1105" />
+            </Array>
+            <mxPoint x="1235" y="1105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Kelola Stok]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="1150" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-61" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-8" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;19. getStokSampah()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0029" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="692.5000000000002" y="1205" />
+            </Array>
+            <mxPoint x="610" y="1205" as="sourcePoint" />
+            <mxPoint x="775" y="1205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-62" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;22. dataStok&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.2375" as="geometry">
+            <Array as="points">
+              <mxPoint x="692.5000000000002" y="1284.9999999999998" />
+            </Array>
+            <mxPoint x="775" y="1285" as="sourcePoint" />
+            <mxPoint x="610" y="1285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-63" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;23. tampilkanDataStokSampah()&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.3205" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="422.2500000000002" y="1305" />
+            </Array>
+            <mxPoint x="600" y="1305" as="sourcePoint" />
+            <mxPoint x="240" y="1305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-64" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;20. getStok()&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.4478" y="-1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1102.5" y="1224" />
+            </Array>
+            <mxPoint x="785" y="1224" as="sourcePoint" />
+            <mxPoint x="1420" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-65" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-28" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;21. dataStok&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="0.5997" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1122.25" y="1266" />
+            </Array>
+            <mxPoint x="1155" y="1266" as="sourcePoint" />
+            <mxPoint x="785" y="1266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Penjualan Sampah]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="240" y="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-67" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-19" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;24. getFormPenjualan&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="-0.0303" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="692.5000000000002" y="1384.9999999999998" />
+            </Array>
+            <mxPoint x="610" y="1385" as="sourcePoint" />
+            <mxPoint x="775" y="1385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-68" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-19" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;27. dataFormPenjualan&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.0029" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="692.5000000000002" y="1465" />
+            </Array>
+            <mxPoint x="775" y="1465" as="sourcePoint" />
+            <mxPoint x="610" y="1465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-69" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;28. tampilkanFormPenjualan()&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.0986" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="422.2500000000002" y="1484.9999999999998" />
+            </Array>
+            <mxPoint x="600" y="1485" as="sourcePoint" />
+            <mxPoint x="240" y="1485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-70" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-19" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;25. getDataPengepul()&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.1493" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1022.5" y="1404.0000000000002" />
+            </Array>
+            <mxPoint x="785" y="1404" as="sourcePoint" />
+            <mxPoint x="1155" y="1404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-71" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-30" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;26. dataPengepul&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="0.1791" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1022.5" y="1450" />
+            </Array>
+            <mxPoint x="1155" y="1450" as="sourcePoint" />
+            <mxPoint x="785" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Lihat Transaksi atau Laporan&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="240" y="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-73" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-8" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;29. getTransaksiLaporan()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.0029" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="694.75" y="1555" />
+            </Array>
+            <mxPoint x="620" y="1555" as="sourcePoint" />
+            <mxPoint x="785" y="1555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-74" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-20" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-8" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;32. dataTransaksiLaporan&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.0029" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="694.75" y="1635" />
+            </Array>
+            <mxPoint x="785" y="1635" as="sourcePoint" />
+            <mxPoint x="620" y="1635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-75" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;33. tampilkanDataTransaksiLaporan()&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.0986" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="427.25" y="1655" />
+            </Array>
+            <mxPoint x="610" y="1655" as="sourcePoint" />
+            <mxPoint x="250" y="1655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-76" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-20" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="AmkFmMD-4WnfsllKaD7_-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;30. getDataTransaksi()&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.1429" y="-1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1017.5000000000002" y="1574" />
+            </Array>
+            <mxPoint x="795" y="1574" as="sourcePoint" />
+            <mxPoint x="1165" y="1574" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-77" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-32" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-11;defaultLabelBackgroundColor=gap;exitPerimeter=0;" target="AmkFmMD-4WnfsllKaD7_-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;31. dataTransaksi&lt;/span&gt;&lt;/font&gt;">
+          <mxGeometry relative="1" x="0.3133" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1210" y="1620" />
+            </Array>
+            <mxPoint x="1175" y="1614" as="sourcePoint" />
+            <mxPoint x="805" y="1614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-78" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;[Logout]&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="240" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-79" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;34. logout()&lt;/font&gt;">
+          <mxGeometry relative="1" width="80" x="0.1261" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="690" y="1740" />
+            </Array>
+            <mxPoint x="605" y="1740" as="sourcePoint" />
+            <mxPoint x="775" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-80" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;35. logoutBerhasil()&lt;/span&gt;">
+          <mxGeometry relative="1" x="-0.1176" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="690" y="1810" />
+            </Array>
+            <mxPoint x="775" y="1810" as="sourcePoint" />
+            <mxPoint x="605" y="1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-81" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;36. keluarDariSistem()&lt;/font&gt;">
+          <mxGeometry relative="1" x="-0.3699" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="422.5" y="1830" />
+            </Array>
+            <mxPoint x="605" y="1830" as="sourcePoint" />
+            <mxPoint x="240" y="1830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-82" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=10;height=15;" value="" vertex="1">
+          <mxGeometry height="980" width="1480" x="200" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-83" edge="1" parent="1" source="AmkFmMD-4WnfsllKaD7_-82" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.999;entryY=0.241;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;" target="AmkFmMD-4WnfsllKaD7_-82" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1520" y="1170" as="sourcePoint" />
+            <mxPoint x="1570" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-84" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.999;entryY=0.241;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="204" y="1341" as="sourcePoint" />
+            <mxPoint x="1676" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-85" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.999;entryY=0.241;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="204" y="1521" as="sourcePoint" />
+            <mxPoint x="1676" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmkFmMD-4WnfsllKaD7_-86" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.999;entryY=0.241;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.005;exitY=0.242;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="204" y="1691" as="sourcePoint" />
+            <mxPoint x="1676" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
